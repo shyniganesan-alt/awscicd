@@ -15,10 +15,10 @@ public class TestController {
     }
 
 
-    @GetMapping("/welcome")
-    public String greetings() {
-        return "Hello Software Engineer , AWS CICD Example working fine !";
-    }
+    //@GetMapping("/welcome")
+    //public String greetings() {
+        //return "Hello Software Engineer , AWS CICD Example working fine !";
+    //}
 
 
 }
