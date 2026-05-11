@@ -109,7 +109,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>cicd-service</finalName>
+		<finalName>cicdone-service</finalName>
 	</build>
 
 </project>
