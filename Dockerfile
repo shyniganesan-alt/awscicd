@@ -5,7 +5,7 @@ FROM eclipse-temurin:17-jdk
 WORKDIR /app
 
 # Copy jar file
-COPY target/cicd-service.jar app.jar
+COPY target/cicdone-service.jar app.jar
 
 # Expose application port
 EXPOSE 8080
