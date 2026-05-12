@@ -19,8 +19,13 @@ public class TestController {
     public String greetings() {
         return "Hello Software Engineer , AWS CICD Example working fine !";
     }
+    
+    
+    @GetMapping("/education")
+    public String education() {
+        return "Education is more important to kids !";
+    }
 	
-	// addd
 
 
 }
