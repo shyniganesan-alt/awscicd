@@ -27,7 +27,7 @@ public class TestController {
     }
     
     @GetMapping("welcomealltechlife")
-    public String education() {
+    public String welcometechie() {
         return "welcomealltechlife!";
     }
 
