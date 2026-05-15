@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 	
 	
-	@GetMapping("/health")
-    public String healthCheck() {
-        return "UP";
-    }
+	//@GetMapping("/health")
+    //public String healthCheck() {
+        //return "UP";
+    //}
 
 
     @GetMapping("/welcome")
