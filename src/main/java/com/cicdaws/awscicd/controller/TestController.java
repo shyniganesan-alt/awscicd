@@ -25,6 +25,12 @@ public class TestController {
     public String education() {
         return "Life long learning is important!";
     }
+    
+    @GetMapping("welcomealltechlife")
+    public String education() {
+        return "welcomealltechlife!";
+    }
+
 	
 
 
