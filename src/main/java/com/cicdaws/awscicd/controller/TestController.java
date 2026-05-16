@@ -21,10 +21,10 @@ public class TestController {
     }
     
     
-    @GetMapping("/education")
-    public String education() {
-        return "Life long learning is important!";
-    }
+    //@GetMapping("/education")
+    //public String education() {
+        //return "Life long learning is important!";
+    //}
     
     //@GetMapping("welcomealltechlife")
     //public String welcometechie() {
