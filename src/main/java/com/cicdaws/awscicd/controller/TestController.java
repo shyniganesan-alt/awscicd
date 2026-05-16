@@ -26,10 +26,10 @@ public class TestController {
         return "Life long learning is important!";
     }
     
-    @GetMapping("welcomealltechlife")
-    public String welcometechie() {
-        return "welcomealltechlife!";
-    }
+    //@GetMapping("welcomealltechlife")
+    //public String welcometechie() {
+        //return "welcomealltechlife!";
+    //}
 
 	
 
